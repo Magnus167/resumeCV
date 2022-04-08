@@ -79,18 +79,18 @@ Built software systems for the company to manage all software-related tasks - fr
 -------------------------------
 
 # Relevant Courses 
- - ### Introduction to C++ | `Microsoft`
+### Introduction to C++ | `Microsoft`
 
- - ### Introduction to Cyber Security | `The Open University`
- - ### Introduction to Linux | `Linux Foundation`
+### Introduction to Cyber Security | `The Open University`
+### Introduction to Linux | `Linux Foundation`
 
- - ### Learning How To Learn | `UC San Diego`
+### Learning How To Learn | `UC San Diego`
 
- - ### Creating Powerful Political Messages | `TU Delft`
+### Creating Powerful Political Messages | `TU Delft`
 
- - ### Basic Spanish for English Speakers | `UP Valencia`
+### Basic Spanish for English Speakers | `UP Valencia`
 
- - ### CPR, AED and First Aid Training | `Disque Foundation`
+### CPR, AED and First Aid Training | `Disque Foundation`
 
 
 -------------------------------
