@@ -7,7 +7,7 @@ title: Isaac Newtons's CV
 
 <div id="webaddress">
 <a href="palash@tyagi.me">palash@tyagi.me</a>
-| <a href="https://github.com/Magnus167">My GitHub</a>
+| <a href="https://github.com/Magnus167">GitHub : Magnus167</a>
 | <a href="https://www.linkedin.com/in/palash-tyagi-207795191/">My LinkedIn</a>
 </div>
 
@@ -31,6 +31,10 @@ __King's College London__
 
 `MAR 2011 - JUN 2019` |
 __Kasiga School, Dehradun__
+
+**Languages** 
+
+`English` | `Hindi` | `Spanish` | `Nepali` | `Urdu` 
 
 -------------------------------
 -------------------------------
@@ -79,18 +83,18 @@ Built software systems for the company to manage all software-related tasks - fr
 -------------------------------
 
 # Relevant Courses 
-### Introduction to C++ | `Microsoft`
+### **Introduction to C++** | `Microsoft`
 
-### Introduction to Cyber Security | `The Open University`
-### Introduction to Linux | `Linux Foundation`
+### **Introduction to Cyber Security** | `The Open University`
+### **Introduction to Linux** | `Linux Foundation`
 
-### Learning How To Learn | `UC San Diego`
+### **Learning How To Learn** | `UC San Diego`
 
-### Creating Powerful Political Messages | `TU Delft`
+### **Creating Powerful Political Messages** | `TU Delft`
 
-### Basic Spanish for English Speakers | `UP Valencia`
+### **Basic Spanish for English Speakers** | `UP Valencia`
 
-### CPR, AED and First Aid Training | `Disque Foundation`
+### **CPR, AED and First Aid Training** | `Disque Foundation`
 
 
 -------------------------------
