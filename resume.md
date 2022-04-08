@@ -16,7 +16,7 @@ title: Isaac Newtons's CV
 
 `Python` | `C++` | `C` | `Object Pascal` | `Delphi` | `Javascript` | `MATLAB` | `Google Appscript` | `G-Code for actuators`
 
-`Raspberry Pi` | `Arduino` | `OpenCV` | `NLTK` | `Linux` |`AWS` | `Tesseract-OCR` | `MongoDB` | `Git` | `Computer Vision` | `WordPress` | `Docker` | `SQL` | `CAD design` | `3D printing` | `Data Analysis` | `Electronics & Circuit Design` | `Machine Learning` | `Micro-controllers` | `Microsoft Office` | `Virtual Machines`
+`Raspberry Pi` | `Arduino` | `OpenCV` | `NLTK` | `Linux` | `Google Cloud Compute` | `AWS` | `Tesseract-OCR` | `MongoDB` | `Git` | `Computer Vision` | `WordPress` | `Docker` | `SQL` | `CAD design` | `3D printing` | `Data Analysis` | `Electronics & Circuit Design` | `Machine Learning` | `Micro-controllers` | `Microsoft Office` | `Virtual Machines`
 
 `Graphic Design` | `3D Design` | `Autodesk Fusion` | `Autodesk Inventor` | `Metal Working` | `Woodworking`
 
