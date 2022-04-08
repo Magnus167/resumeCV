@@ -59,12 +59,12 @@ Award Excellence in Performing Arts for Theatre
 
 <!-- ## Productive Fish | `DEC 2020 - PRESENT` -->
 ### **Productive Fish**
-`Project` | **`DEC 2020 - PRESENT`**
+`Project` | `DEC 2020 - PRESENT`
 
 Part of a software development team that built an app that uses machine learning to help users stay focused on tasks and allows team working sessions.
 
 ### **Private Tutoring** 
-`Self Employed` | **`DEC 2019 - PRESENT`**
+`Self Employed` | `DEC 2019 - PRESENT`
 
 
 Tutoring high school and middle school students in Physics, Mathematics,
@@ -72,13 +72,13 @@ Chemistry, Biology, English, Computer Science, and Design & Technology.
 
 
 ### **Studeo Ltd.**
-`Freelance Job` | **`APR 2021`**
+`Freelance Job` | `APR 2021`
 
 Created an application to collect and generate Mathematics practice questions for online learning, using computer vision, character recognition, and CAS libraries.
 
 
 ### **Sparsh Garg Pvt. Ltd.**
-`Consultant, Programmer` | **`APR 2020 - SEPT 2020`**
+`Consultant, Programmer` | `APR 2020 - SEPT 2020`
 
 Built software systems for the company to manage all software-related tasks - from social media logs to billing, as well as task automation. The suite included a CRM powered only by Google Docs, and a simple browser based interface for scheduling tasks.
 
@@ -135,7 +135,7 @@ Created a server that hosts educational content (lectures, documentaries, books 
 network. The project was highly useful for teachers, as well as students. Maintained and scaled the project since. The
 future of the project is aimed at providing technological
 
-### Traffic and Road Safety Awareness Workshops | `DEC 2018`
+### **Traffic and Road Safety Awareness Workshops** | `DEC 2018`
 
 Due to a sudden spike in the car accidents involving teenagers in the Saharanpur (IN) district, took the initiative of
 conducting traffic and safety awareness workshops in schools with a large number of students.
