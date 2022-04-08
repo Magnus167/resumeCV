@@ -42,6 +42,7 @@ __Kasiga School, Dehradun__
 # Achievements
 `2022`
 Successfully completed the [**IBM Ponder This Challenge (March 2022)**](https://research.ibm.com/haifa/ponderthis/challenges/March2022.html)
+- 1 in 70 globally 
 
 `2019`
 **Valedictorian** - [**Kāsiga School**](https://www.kasigaschool.com/)
