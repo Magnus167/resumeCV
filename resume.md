@@ -133,8 +133,8 @@ Science Exhibition in 2013, 2014, & 2016; and at the CBSE National Science Exhib
 ### **Conlectio** | `2016 – PRESENT`
 
 Created a server that hosts educational content (lectures, documentaries, books and practice papers) on the school
-network. The project was highly useful for teachers, as well as students. Maintained and scaled the project since. The
-future of the project is aimed at providing technological
+network. The project was highly useful for teachers, as well as students. Scaled and maintained the project for it's lifetime. The
+future of the project is aimed at providing low cost ed-tech to for students who don't have access to ed-tech. 
 
 ### **Traffic and Road Safety Awareness Workshops** | `DEC 2018`
 
