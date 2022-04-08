@@ -50,7 +50,7 @@ Successfully completed the [**IBM Ponder This Challenge (March 2022)**](https://
 [**SAT India Top Performer**](https://satsuite.collegeboard.org/)
 
 `2019`
-Award Excellence in Performing Arts for Theatre 
+Award for Excellence in Performing Arts for Theatre 
 
 -------------------------------
 -------------------------------
