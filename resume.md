@@ -47,6 +47,7 @@ Successfully completed the [**IBM Ponder This Challenge (March 2022)**](https://
 
 -------------------------------
 -------------------------------
+
 # Employment and Projects
 
 <!-- ## Productive Fish | `DEC 2020 - PRESENT` -->
@@ -74,8 +75,9 @@ Created an application to collect and generate Mathematics practice questions fo
 
 Built software systems for the company to manage all software-related tasks - from social media logs to billing, as well as task automation. The suite included a CRM powered only by Google Docs, and a simple browser based interface for scheduling tasks.
 
-____________________________
-____________________________
+-------------------------------
+-------------------------------
+
 # Relevant Courses 
  - ### Introduction to C++ | `Microsoft`
 
@@ -89,3 +91,44 @@ ____________________________
  - ### Basic Spanish for English Speakers | `UP Valencia`
 
  - ### CPR, AED and First Aid Training | `Disque Foundation`
+
+
+-------------------------------
+-------------------------------
+# Relevant College Coursework
+
+### **5CCP2000 – Experimental Physics** | `2021`
+
+The course involved performing experiments and analysing the results, including error analysis and also studying
+instrumental error. The course helped develop skills in scientific and clear communication, as well as building strong
+observational skills for a large variety of given environments.
+
+### **5CCP211C – Introduction to Numerical Modelling** | `2020`
+
+Analysing real-world problems as physical and mathematical systems using numerical modelling techniques. Two
+systems that were modelled were The Tacoma Bridge, and a Travelling Salesman Problem.
+
+### **5CCYB060 – Introduction to Medical Physics and Clinical Engineering** | `2020`
+
+The course covered topics around medical imaging, 3D manufacturing, and radiation physics. The coursework
+covered was designing a sustainable, 3D printable product that would help patients with physical disabilities.
+School Projects
+
+### **Design and Technology Club** | `2011 - 2019`
+
+Worked on several prototypes, physics projects, and exhibits. Made an Energy Monitor using microcontrollers and a
+GUI application. Learnt about and built FFD 3D printing and Cartesian 3D printers. Was part of a student-teacher
+team that did a ground-up design and fabrication of a Delta 3D printer. Represented the school at the CBSE Regional
+Science Exhibition in 2013, 2014, & 2016; and at the CBSE National Science Exhibitions in the years 2013, 2014, &
+2017.
+
+### **Conlectio** | `2016 – PRESENT`
+
+Created a server that hosts educational content (lectures, documentaries, books and practice papers) on the school
+network. The project was highly useful for teachers, as well as students. Maintained and scaled the project since. The
+future of the project is aimed at providing technological
+
+### Traffic and Road Safety Awareness Workshops | `DEC 2018`
+
+Due to a sudden spike in the car accidents involving teenagers in the Saharanpur (IN) district, took the initiative of
+conducting traffic and safety awareness workshops in schools with a large number of students.
