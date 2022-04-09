@@ -90,6 +90,7 @@ Built software systems for the company to manage all software-related tasks - fr
 ### **Introduction to C++** | `Microsoft`
 
 ### **Introduction to Cyber Security** | `The Open University`
+
 ### **Introduction to Linux** | `Linux Foundation`
 
 ### **Learning How To Learn** | `UC San Diego`
