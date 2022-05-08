@@ -2,6 +2,7 @@
 layout: cv
 title: Isaac Newtons's CV
 --- -->
+
 # **Palash Tyagi**
 **BSc. (Hons.) in Physics | Programmer | Problem Solver | Valedictorian**
 
@@ -22,27 +23,21 @@ title: Isaac Newtons's CV
 
 
 -------------------------------
--------------------------------
 
 # Education
 
-`SEP 2019 -- PRESENT` |
+`SEP 2019 -- PRESENT` | __BSc. Physics__ |
 __King's College London__
 
-`MAR 2011 - JUN 2019` |
+`MAR 2011 - JUN 2019` | __A Levels__ |
 __Kasiga School, Dehradun__
 
-**Languages** 
 
-`English` | `Hindi` | `Spanish` | `Nepali` | `Urdu` 
-
--------------------------------
 -------------------------------
 
 # Achievements
 `2022`
-Successfully completed the [**IBM Ponder This Challenge (March 2022)**](https://research.ibm.com/haifa/ponderthis/challenges/March2022.html)
-- 1 in 70 globally 
+Successfully completed the [**IBM Ponder This Challenge (March 2022)**](https://research.ibm.com/haifa/ponderthis/challenges/March2022.html) (1 in 70 globally)
 
 `2019`
 **Valedictorian** - [**Kāsiga School**](https://www.kasigaschool.com/)
@@ -54,11 +49,11 @@ Successfully completed the [**IBM Ponder This Challenge (March 2022)**](https://
 Award for Excellence in Performing Arts for Theatre 
 
 -------------------------------
--------------------------------
 
 # Employment and Projects
 
 <!-- ## Productive Fish | `DEC 2020 - PRESENT` -->
+
 ### **Productive Fish**
 `Project` | `DEC 2020 - PRESENT`
 
@@ -68,8 +63,7 @@ Part of a software development team that built an app that uses machine learning
 `Self Employed` | `DEC 2019 - PRESENT`
 
 
-Tutoring high school and middle school students in Physics, Mathematics,
-Chemistry, Biology, English, Computer Science, and Design & Technology.
+High School tutor for Sciences, Computer Science, and Design & Technology.
 
 
 ### **Studeo Ltd.**
@@ -81,28 +75,26 @@ Created an application to collect and generate Mathematics practice questions fo
 ### **Sparsh Garg Pvt. Ltd.**
 `Consultant, Programmer` | `APR 2020 - SEPT 2020`
 
-Built software systems for the company to manage all software-related tasks - from social media logs to billing, as well as task automation. The suite included a CRM powered only by Google Docs, and a simple browser based interface for scheduling tasks.
+Built software systems for the company to manage all software-related tasks (including CRM).
 
--------------------------------
 -------------------------------
 
 # Relevant Courses 
-### **Introduction to C++** | `Microsoft`
+-  **Introduction to C++** | `Microsoft`
 
-### **Introduction to Cyber Security** | `The Open University`
+- **Introduction to Cyber Security** | `The Open University`
 
-### **Introduction to Linux** | `Linux Foundation`
+- **Introduction to Linux** | `Linux Foundation`
 
-### **Learning How To Learn** | `UC San Diego`
+- **Learning How To Learn** | `UC San Diego`
 
-### **Creating Powerful Political Messages** | `TU Delft`
+- **Creating Powerful Political Messages** | `TU Delft`
 
-### **Basic Spanish for English Speakers** | `UP Valencia`
+- **Basic Spanish for English Speakers** | `UP Valencia`
 
-### **CPR, AED and First Aid Training** | `Disque Foundation`
+- **CPR, AED and First Aid Training** | `Disque Foundation`
 
 
--------------------------------
 -------------------------------
 # Relevant College Coursework
 
@@ -141,3 +133,8 @@ future of the project is aimed at providing low cost edu-tech devices to for stu
 
 Due to a sudden spike in the car accidents involving teenagers in the Saharanpur (IN) district, took the initiative of
 conducting traffic and safety awareness workshops in schools with a large number of students.
+
+
+**Languages** 
+
+`English` | `Hindi` | `Spanish` | `Nepali` | `Urdu` 
