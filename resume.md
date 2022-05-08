@@ -3,6 +3,7 @@ layout: cv
 title: Isaac Newtons's CV
 --- -->
 
+-------------------------------
 # Palash Tyagi
 **BSc. (Hons.) in Physics | Programmer | Problem Solver | Valedictorian**
 
@@ -91,6 +92,7 @@ Built software systems for the company to manage all software-related tasks (inc
 
 
 -------------------------------
+-------------------------------
 ## Relevant College Coursework
 
 ### **Implementing a General-Purpose Finite-Difference for Electromagnetic Waves** | `2021`
@@ -115,15 +117,15 @@ The course covered topics around medical imaging, 3D manufacturing, and radiatio
 covered was designing a sustainable, 3D printable product that would help patients with physical disabilities.
 School Projects
 
-# Relavant School Projects
+-------------------------------
+## Relevant School Projects
 
 ### **Design and Technology Club** | `2011 - 2019`
 
 Worked on several prototypes, physics projects, and exhibits. Made an Energy Monitor using microcontrollers and a
 GUI application. Learnt about and built FFD 3D printing and Cartesian 3D printers. Was part of a student-teacher
 team that did a ground-up design and fabrication of a Delta 3D printer. Represented the school at the CBSE Regional
-Science Exhibition in 2013, 2014, & 2016; and at the CBSE National Science Exhibitions in the years 2013, 2014, &
-2017.
+Science Exhibition in 2013, 2014, & 2016; and at the CBSE National Science Exhibitions in the years 2013, 2014, & 2017.
 
 ### **Conlectio** | `2016 – PRESENT`
 
@@ -137,6 +139,7 @@ Due to a sudden spike in the car accidents involving teenagers in the Saharanpur
 conducting traffic and safety awareness workshops in schools with a large number of students.
 
 
-**Languages** 
+-------------------------------
+## Languages 
 
 `English` | `Hindi` | `Spanish` | `Nepali` | `Urdu` 
