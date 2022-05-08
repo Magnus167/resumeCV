@@ -96,7 +96,7 @@ Built software systems for the company to manage all software-related tasks (inc
 ### Implementing a General-Purpose Finite-Difference | `2021`
 
 
-### **5CCP2000 – Experimental Physics** | `2021`
+### **Experimental Physics** | `2021`
 
 The course involved performing experiments and analysing the results, including error analysis and also studying
 instrumental error. The course helped develop skills in scientific and clear communication, as well as building strong
