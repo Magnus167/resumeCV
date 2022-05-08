@@ -93,7 +93,9 @@ Built software systems for the company to manage all software-related tasks (inc
 -------------------------------
 ## Relevant College Coursework
 
-### Implementing a General-Purpose Finite-Difference | `2021`
+### **Implementing a General-Purpose Finite-Difference for Electromagnetic Waves** | `2021`
+
+The project focused on developing an FDTD simulator for EM waves, to be used by students and as a teaching tool. Allowing users to create their simulations using less than 7 lines of code, the simulator is implemented in Python and uses NumPy and Matplotlib.
 
 
 ### **Experimental Physics** | `2021`
@@ -102,16 +104,18 @@ The course involved performing experiments and analysing the results, including 
 instrumental error. The course helped develop skills in scientific and clear communication, as well as building strong
 observational skills for a large variety of given environments.
 
-### **5CCP211C – Introduction to Numerical Modelling** | `2020`
+### **Introduction to Numerical Modelling** | `2020`
 
 Analysing real-world problems as physical and mathematical systems using numerical modelling techniques. Two
 systems that were modelled were The Tacoma Bridge, and a Travelling Salesman Problem.
 
-### **5CCYB060 – Introduction to Medical Physics and Clinical Engineering** | `2020`
+### **Introduction to Medical Physics and Clinical Engineering** | `2020`
 
 The course covered topics around medical imaging, 3D manufacturing, and radiation physics. The coursework
 covered was designing a sustainable, 3D printable product that would help patients with physical disabilities.
 School Projects
+
+# Relavant School Projects
 
 ### **Design and Technology Club** | `2011 - 2019`
 
