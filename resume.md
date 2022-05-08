@@ -3,7 +3,7 @@ layout: cv
 title: Isaac Newtons's CV
 --- -->
 
-# **Palash Tyagi**
+# Palash Tyagi
 **BSc. (Hons.) in Physics | Programmer | Problem Solver | Valedictorian**
 
 <div id="webaddress">
@@ -13,7 +13,7 @@ title: Isaac Newtons's CV
 </div>
 
 
-# Skills
+## Skills
 
 `Python` | `C++` | `C` | `Object Pascal` | `Delphi` | `Javascript` | `MATLAB` | `Google Appscript` | `G-Code for actuators`
 
@@ -24,7 +24,7 @@ title: Isaac Newtons's CV
 
 -------------------------------
 
-# Education
+## Education
 
 `SEP 2019 -- PRESENT` | __BSc. Physics__ |
 __King's College London__
@@ -35,22 +35,17 @@ __Kasiga School, Dehradun__
 
 -------------------------------
 
-# Achievements
-`2022`
-Successfully completed the [**IBM Ponder This Challenge (March 2022)**](https://research.ibm.com/haifa/ponderthis/challenges/March2022.html) (1 in 70 globally)
+## Achievements
+`2022`  Successfully completed the [**IBM Ponder This Challenge (March 2022)**](https://research.ibm.com/haifa/ponderthis/challenges/March2022.html) (1 in 70 globally)
 
 `2019`
-**Valedictorian** - [**Kāsiga School**](https://www.kasigaschool.com/)
-
-`2019`
-[**SAT India Top Performer**](https://satsuite.collegeboard.org/)
-
-`2019`
+**Valedictorian** - [**Kāsiga School**](https://www.kasigaschool.com/) | 
+[**SAT India Top Performer**](https://satsuite.collegeboard.org/) | 
 Award for Excellence in Performing Arts for Theatre 
 
 -------------------------------
 
-# Employment and Projects
+## Employment and Projects
 
 <!-- ## Productive Fish | `DEC 2020 - PRESENT` -->
 
@@ -79,7 +74,7 @@ Built software systems for the company to manage all software-related tasks (inc
 
 -------------------------------
 
-# Relevant Courses 
+## Relevant Courses 
 -  **Introduction to C++** | `Microsoft`
 
 - **Introduction to Cyber Security** | `The Open University`
@@ -96,7 +91,10 @@ Built software systems for the company to manage all software-related tasks (inc
 
 
 -------------------------------
-# Relevant College Coursework
+## Relevant College Coursework
+
+### Implementing a General-Purpose Finite-Difference | `2021`
+
 
 ### **5CCP2000 – Experimental Physics** | `2021`
 
