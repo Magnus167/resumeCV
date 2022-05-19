@@ -1,4 +1,3 @@
-<div style="text-align: justify">
 
   
 -------------------------------
@@ -143,4 +142,4 @@ conducting traffic and safety awareness workshops in schools with a large number
 
 `English` | `Hindi` | `Spanish` | `Nepali` | `Urdu` 
   
-</div>
+
