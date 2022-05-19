@@ -1,7 +1,3 @@
-<!-- ---
-layout: cv
-title: Isaac Newtons's CV
---- -->
 
 -------------------------------
 # Palash Tyagi
@@ -16,11 +12,11 @@ title: Isaac Newtons's CV
 
 ## Skills
 
-`Python` | `C++` | `C` | `Object Pascal` | `Delphi` | `Javascript` | `MATLAB` | `Google Appscript` | `G-Code for actuators`
+`Python` &#124; `C++` &#124; `C` &#124; `Object Pascal` &#124; `Delphi` &#124; `Javascript` &#124; `MATLAB` &#124; `Google Appscript` &#124; `G-Code for actuators`
 
-`Raspberry Pi` | `Arduino` | `OpenCV` | `NLTK` | `Linux` | `Google Cloud Compute` | `AWS` | `Tesseract-OCR` | `MongoDB` | `Git` | `Computer Vision` | `WordPress` | `Docker` | `SQL` | `CAD design` | `3D printing` | `Data Analysis` | `Electronics & Circuit Design` | `Machine Learning` | `Micro-controllers` | `Microsoft Office` | `Virtual Machines`
+`Raspberry Pi` &#124; `Arduino` &#124; `OpenCV` &#124; `NLTK` &#124; `Linux` &#124; `Google Cloud Compute` &#124; `AWS` &#124; `Tesseract-OCR` &#124; `MongoDB` &#124; `Git` &#124; `Computer Vision` &#124; `WordPress` &#124; `Docker` &#124; `SQL` &#124; `CAD design` &#124; `3D printing` &#124; `Data Analysis` &#124; `Electronics & Circuit Design` &#124; `Machine Learning` &#124; `Micro-controllers` &#124; `Microsoft Office` &#124; `Virtual Machines`
 
-`Graphic Design` | `3D Design` | `Autodesk Fusion` | `Autodesk Inventor` | `Metal Working` | `Woodworking`
+`Graphic Design` &#124; `3D Design` &#124; `Autodesk Fusion` &#124; `Autodesk Inventor` &#124; `Metal Working` &#124; `Woodworking`
 
 
 -------------------------------
