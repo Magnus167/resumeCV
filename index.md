@@ -1,4 +1,3 @@
-<div style="text-align: justify">
 
 -------------------------------
 # Palash Tyagi
@@ -140,4 +139,3 @@ conducting traffic and safety awareness workshops in schools with a large number
 ## Languages 
 
 `English` &#124; `Hindi` &#124; `Spanish` &#124; `Nepali` &#124; `Urdu` 
-</div>
