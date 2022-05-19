@@ -139,6 +139,5 @@ conducting traffic and safety awareness workshops in schools with a large number
 -------------------------------
 ## Languages 
 
-`English` | `Hindi` | `Spanish`
-  
+`English` | `Hindi` | `Spanish` | `Nepali` | `Urdu` 
 </div>
