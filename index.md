@@ -1,5 +1,6 @@
 <div style="text-align: justify">
 
+  
 -------------------------------
 # Palash Tyagi
 **BSc. (Hons.) in Physics | Programmer | Problem Solver | Valedictorian**
@@ -140,4 +141,5 @@ conducting traffic and safety awareness workshops in schools with a large number
 ## Languages 
 
 `English` | `Hindi` | `Spanish` | `Nepali` | `Urdu` 
+  
 </div>
