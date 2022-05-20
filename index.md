@@ -1,3 +1,19 @@
+</div>
+ <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="dark-mode.css">
+</head>
+<body class="dark" >
+<align="right">
+  <button class="dark-mode-toggle" style="visibility: visible;" >💡 Toggle Dark Mode</button>
+  <script async="" defer="" src="dark-mode.min.js"></script>
+
+</align>
+</body>
+
+
+
 
 -------------------------------
 # Palash Tyagi
@@ -7,7 +23,7 @@
 <a href="palash@tyagi.me">palash@tyagi.me</a>
 &#124; <a href="https://github.com/Magnus167">GitHub : Magnus167</a>
 &#124; <a href="https://www.linkedin.com/in/palash-tyagi-207795191/">My LinkedIn</a>
-</div>
+
 
 
 ## Skills
