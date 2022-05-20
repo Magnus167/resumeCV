@@ -1,20 +1,4 @@
 
- <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <link rel="stylesheet" href="dark-mode.css">
-</head>
-<body class="dark" >
-<align="right">
-  <button class="dark-mode-toggle" style="visibility: visible;" >💡 Toggle Dark Mode</button>
-  <script async="" defer="" src="dark-mode.min.js"></script>
-
-</align>
-</body>
-
-
-
-
 -------------------------------
 # Palash Tyagi
 **BSc. (Hons.) in Physics &#124; Programmer &#124; Problem Solver &#124; Valedictorian**
