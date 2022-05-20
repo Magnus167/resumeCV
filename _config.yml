@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Palash Tyagi's Resume
 description: <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Magnus167/resumeCV/master/Resume_PTyagi_May22.pdf">View PDF</a> &#124; <a href="https://raw.githubusercontent.com/Magnus167/resumeCV/master/Resume_PTyagi_May22.pdf">Download PDF</a> &#124; <a href="https://magnus167.github.io/resumeCV/resume_pdf.htm?src=https://raw.githubusercontent.com/Magnus167/resumeCV/master/resume.md">View Markdown Version</a>
+github:
+  is_project_page: false
