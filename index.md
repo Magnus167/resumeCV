@@ -1,4 +1,4 @@
-</div>
+
  <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -24,7 +24,7 @@
 &#124; <a href="https://github.com/Magnus167">GitHub : Magnus167</a>
 &#124; <a href="https://www.linkedin.com/in/palash-tyagi-207795191/">My LinkedIn</a>
 
-
+</div>
 
 ## Skills
 
