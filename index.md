@@ -52,7 +52,7 @@ Part of a software development team that built an app that uses machine learning
 
 ### **jarPhys** &#124; `Project` &#124; `APR 2021 - PRESENT`
 
-Created an application that uses natural language tools in combination with OCR to help users run natural language search on their own documents. Project Link: [magnus167.github.io/jarPhys](magnus167.github.io/jarPhys/)
+Created an application that uses natural language tools in combination with OCR to help users run natural language search on their own documents. Project Link: [magnus167.github.io/jarPhys](https://magnus167.github.io/jarPhys/)
 
 ### **Private Tutoring** &#124; `Self Employed` &#124; `DEC 2019 - PRESENT`
 
