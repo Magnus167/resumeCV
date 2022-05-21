@@ -127,7 +127,7 @@ Science Exhibition in 2013, 2014, & 2016; and at the CBSE National Science Exhib
 
 Created a server that hosts educational content (lectures, documentaries, books and practice papers) on the school
 network. The project was highly useful for teachers, as well as students. Scaled and maintained the project for it's lifetime. The
-future of the project is aimed at providing low cost edu-tech devices to for students, regardless of geographical or cultural boundaries.
+future of the project is aimed at providing low cost edu-tech devices for students, regardless of geographical or cultural boundaries.
 
 ### **Traffic and Road Safety Awareness Workshops** &#124; `DEC 2018`
 
