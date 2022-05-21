@@ -46,45 +46,41 @@ Award for Excellence in Performing Arts for Theatre
 
 <!-- ## Productive Fish &#124; `DEC 2020 - PRESENT` -->
 
-### **Productive Fish**
-`Project` &#124; `DEC 2020 - PRESENT`
+### **Productive Fish** &#124; `Project` &#124; `DEC 2020 - PRESENT`
 
 Part of a software development team that built an app that uses machine learning to help users stay focused on tasks and allows team working sessions.
 
-### **Private Tutoring** 
-`Self Employed` &#124; `DEC 2019 - PRESENT`
+### **jarPhys** &#124; `Project` &#124; `APR 2021 - PRESENT`
+
+Created an application that uses natural language tools in combination with OCR to help users run natural language search on their own documents. Project Link: [magnus167.github.io/jarPhys](magnus167.github.io/jarPhys/)
+
+### **Private Tutoring** &#124; `Self Employed` &#124; `DEC 2019 - PRESENT`
 
 
 High School tutor for Sciences, Computer Science, and Design & Technology.
 
 
-### **Studeo Ltd.**
-`Freelance Job` &#124; `APR 2021`
+### **Studeo Ltd.** &#124; `Freelance Job` &#124; `APR 2021`
 
 Created an application to collect and generate Mathematics practice questions for online learning, using computer vision, character recognition, and CAS libraries.
 
 
-### **Sparsh Garg Pvt. Ltd.**
-`Consultant, Programmer` &#124; `APR 2020 - SEPT 2020`
+### **Sparsh Garg Pvt. Ltd.** &#124; `Consultant, Programmer` &#124; `APR 2020 - SEPT 2020`
 
 Built software systems for the company to manage all software-related tasks (including CRM).
 
 -------------------------------
 
 ## Relevant Courses 
--  **Introduction to C++** &#124; `Microsoft`
+**Introduction to C++** &#124; `Microsoft`
 
-- **Introduction to Cyber Security** &#124; `The Open University`
+**Introduction to Cyber Security** &#124; `The Open University`
 
-- **Introduction to Linux** &#124; `Linux Foundation`
+**Introduction to Linux** &#124; `Linux Foundation`
 
-- **Learning How To Learn** &#124; `UC San Diego`
+**Learning How To Learn** &#124; `UC San Diego`
 
-- **Creating Powerful Political Messages** &#124; `TU Delft`
-
-- **Basic Spanish for English Speakers** &#124; `UP Valencia`
-
-- **CPR, AED and First Aid Training** &#124; `Disque Foundation`
+**Creating Powerful Political Messages** &#124; `TU Delft`
 
 
 -------------------------------
