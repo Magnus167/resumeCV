@@ -127,8 +127,8 @@ future of the project is aimed at providing low cost edu-tech devices for studen
 
 ### **Traffic and Road Safety Awareness Workshops** &#124; `DEC 2018`
 
-Due to a sudden spike in the car accidents involving teenagers in the Saharanpur (IN) district, took the initiative of
-conducting traffic and safety awareness workshops in schools with a large number of students.
+Took the initiative of
+conducting traffic and safety awareness workshops in schools with a large number of students. Due to a sudden spike in the car accidents involving teenagers in Saharanpur district (India).
 
 
 -------------------------------
