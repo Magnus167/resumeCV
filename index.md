@@ -7,8 +7,8 @@
 <a href="palash@tyagi.me">palash@tyagi.me</a>
 &#124; <a href="https://github.com/Magnus167">GitHub : Magnus167</a>
 &#124; <a href="https://www.linkedin.com/in/palash-tyagi-207795191/">My LinkedIn</a>
-
 </div>
+
 
 ## Skills
 
@@ -23,7 +23,7 @@
 
 ## Education
 
-`SEP 2019 -- PRESENT` &#124; __BSc. Physics__ &#124;
+`SEP 2019 -- PRESENT` &#124; __BSc. (Hons.) Physics__ &#124;
 __King's College London__
 
 `MAR 2011 - JUN 2019` &#124; __A Levels__ &#124;
@@ -127,7 +127,7 @@ Science Exhibition in 2013, 2014, & 2016; and at the CBSE National Science Exhib
 
 Created a server that hosts educational content (lectures, documentaries, books and practice papers) on the school
 network. The project was highly useful for teachers, as well as students. Scaled and maintained the project for it's lifetime. The
-future of the project is aimed at providing low cost edu-tech devices to for students, regardless of geographical or cultural boundaries.
+future of the project is aimed at providing low cost edu-tech devices for students, regardless of geographical or cultural boundaries.
 
 ### **Traffic and Road Safety Awareness Workshops** &#124; `DEC 2018`
 
