@@ -1,7 +1,7 @@
 
 -------------------------------
 # Palash Tyagi
-**BSc. (Ord) Physics &#124; Programmer &#124; Problem Solver &#124; Valedictorian**
+**BSc. Physics &#124; Programmer &#124; Problem Solver &#124; Valedictorian**
 
 <div id="webaddress">
 <a href="palash@tyagi.me">palash@tyagi.me</a>
