@@ -23,7 +23,7 @@
 
 ## Education
 
-`SEP 2019 -- PRESENT` &#124; __BSc. (Hons.) Physics__ &#124;
+`SEP 2019 -- PRESENT` &#124; __BSc. Physics__ &#124;
 __King's College London__
 
 `MAR 2011 - JUN 2019` &#124; __A Levels__ &#124;
